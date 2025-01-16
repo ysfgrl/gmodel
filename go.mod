@@ -1,4 +1,4 @@
-module gmodel
+module github.com/ysfgrl/gmodel
 
 go 1.22
 
