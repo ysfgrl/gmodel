@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/ysfgrl/gerror"
-	"gmodel"
+	"github.com/ysfgrl/gmodel"
 )
 
 type ResponseContent struct {
