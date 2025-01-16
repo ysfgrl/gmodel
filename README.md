@@ -1,19 +1,19 @@
 
-# go_blue_model RestApi standardizes requests and responses
-[![Go Report Card](https://goreportcard.com/badge/github.com/ysfgrl/go_blue_model)](https://goreportcard.com/report/github.com/ysfgrl/go_blue_model)
-[![GoDoc](https://godoc.org/github.com/ysfgrl/go_blue_model?status.svg)](https://godoc.org/github.com/ysfgrl/go_blue_model)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ysfgrl/go_blue_model/blob/master/LICENSE)
+# gmodel RestApi standardizes requests and responses
+[![Go Report Card](https://goreportcard.com/badge/github.com/ysfgrl/gmodel)](https://goreportcard.com/report/github.com/ysfgrl/gmodel)
+[![GoDoc](https://godoc.org/github.com/ysfgrl/gmodel?status.svg)](https://godoc.org/github.com/ysfgrl/gmodel)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ysfgrl/gmodel/blob/master/LICENSE)
 
 
 
 ## ⚙️ Installation
 
 ```
-go get -u github.com/ysfgrl/go_blue_model
+go get -u github.com/ysfgrl/gmodel
 ```
 
 
-## ⚡️ [Examples](https://github.com/ysfgrl/go_blue_model/tree/master/examples)
+## ⚡️ [Examples](https://github.com/ysfgrl/gmodel/tree/master/examples)
 
 ```go
 
