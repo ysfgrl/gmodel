@@ -4,7 +4,7 @@ go 1.22
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.5
-	github.com/ysfgrl/gerror v0.0.2
+	github.com/ysfgrl/gerror v0.0.3
 )
 
 require (
